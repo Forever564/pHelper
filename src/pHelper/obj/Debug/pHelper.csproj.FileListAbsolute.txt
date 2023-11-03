@@ -1,0 +1,12 @@
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\bin\Debug\pHelper.exe.config
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\bin\Debug\pHelper.exe
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\bin\Debug\pHelper.pdb
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\obj\Debug\pHelper.csproj.AssemblyReference.cache
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\obj\Debug\pHelper.csproj.SuggestedBindingRedirects.cache
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\obj\Debug\pHelper.pHelper.resources
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\obj\Debug\pHelper.Properties.Resources.resources
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\obj\Debug\pHelper.csproj.GenerateResource.cache
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\obj\Debug\pHelper.csproj.CoreCompileInputs.cache
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\obj\Debug\pHelper.exe
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\obj\Debug\pHelper.pdb
+C:\Users\ansta\OneDrive\Документы\GitHub\pHelper_0.3.7\src\pHelper\obj\Debug\pHelper.Form1.resources
