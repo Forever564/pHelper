@@ -1,4 +1,4 @@
-# pHelper_0.3.7
+# pHelper
  Софт, расширяющий возможности игроков
  
 pHelper от vk.com/idDrygok (продолжение приложений aCrash и ChangeWeather for CRMP) - приложение, расширяющее возможности игроков в CR:MP 0.3.7, SA:MP 0.3.7-R3 и на Amazing RP.
